@@ -13,7 +13,7 @@ The game speed is modifiable.
 
 Here is the sketch of my Simon Game Project : 
 
-![Fritzing](images/fritzing.png)
+![Fritzing](images/fritzing.PNG)
 
 ## How to play
 
