@@ -6,7 +6,7 @@ repeat the same sequence.
 
 I implemented my version of the Simon Game in the context of my Embedded System class. Here is my final Simon Game : 
 
-![MySimon](images/simongame.png)
+![MySimon](images/simongame.jpg)
 
 My project complies with the requirements with 4LEDs, 4 analog inputs (FSRs), an 16x2 LCD screen and a piezzo buzzer for the audio output.
 The game speed is modifiable.
