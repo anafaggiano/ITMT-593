@@ -3,7 +3,6 @@
 
 ## Why 
 
-I implemented my version of the Simon Game in the context of my Embedded System class. Here is my final Simon Game : 
 
 ![project](images/IMG_20180503_125145[1].jpg)
 
@@ -11,5 +10,5 @@ I implemented my version of the Simon Game in the context of my Embedded System 
 
 ![Welcome screen](images/IMG_20180504_181948[1].jpg)
 
-![Win screen] (images/IMG_20180504_183105[1].jpg)
+![Win screen](images/IMG_20180504_183105[1].jpg)
 
