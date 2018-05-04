@@ -9,5 +9,5 @@ I implemented my version of the Simon Game in the context of my Embedded System 
 
 ![Tilt sensor](images/IMG_20180503_125214[1].jpg)
 
-![Welcome screen](images/IMG_20180503_181948[1].jpg)
+![Welcome screen](images/IMG_20180504_181948[1].jpg)
 
