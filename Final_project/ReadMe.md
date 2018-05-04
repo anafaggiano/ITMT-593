@@ -11,3 +11,5 @@ I implemented my version of the Simon Game in the context of my Embedded System 
 
 ![Welcome screen](images/IMG_20180504_181948[1].jpg)
 
+![Win screen] (images/IMG_20180504_183105[1].jpg)
+
